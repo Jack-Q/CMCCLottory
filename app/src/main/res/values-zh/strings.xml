@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">移动刮刮乐</string>
+    <string name="action_settings">设置</string>
+    <string name="cancel">取消</string>
+    <string name="confirmation">确认</string>
+    <string name="finish_reqister">成功订阅服务。如果下方网页显示提示信息，则没有抽奖机会。否则可以进行抽奖。</string>
+    <string name="finish_cancel">完成服务取消流程</string>
+    <string name="message_content">短信内容:</string>
+    <string name="message_fragments">短信片段数:</string>
+    <string name="message_from">短信来源:</string>
+    <string name="quit">退出</string>
+    <string name="received_messages">收到消息</string>
+    <string name="selected">已选择</string>
+    <string name="start_cancel_workflow">开始取消服务订阅</string>
+    <string name="start_workflow"><![CDATA[>>> 00 - 开始工作流]]></string>
+    <string name="str_btn_cancel">取消服务</string>
+    <string name="str_btn_start">开始</string>
+    <string name="str_btn_switch">切换号码</string>
+    <string name="sure_to_abort_or_quit">确认要退出吗？</string>
+    <string name="switch_phone_number">切换电话号码</string>
+    <string name="try_to_match">尝试匹配</string>
+    <string name="end_workflow">完成订阅工作流</string>
+    <string name="got_it">知道了</string>
+    <string name="prep_to_send_sms">准备发送短信</string>
+    <string name="tip_check">提示</string>
+    <string name="no_require_cancel">尚未订阅和通信录，无需取消</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CMCCLottery</string>
+
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_btn_start">start</string>
+    <string name="str_btn_switch">switch</string>
+    <string name="str_btn_cancel">cancel reg</string>
+    <string name="switch_phone_number">Switch Phone Number</string>
+    <string name="received_messages">Received Messages</string>
+    <string name="message_fragments">"Message Fragments: "</string>
+    <string name="message_from">"Message From: "</string>
+    <string name="message_content">"Message Cnt: "</string>
+    <string name="try_to_match">Trying to Match</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="quit">Quit</string>
+    <string name="cancel">Cancel</string>
+    <string name="sure_to_abort_or_quit">Sure to abort and quit?</string>
+    <string name="start_workflow"><![CDATA[>>> 00 - Start workflow]]></string>
+    <string name="finish_cancel">Finish cancel workflow</string>
+    <string name="start_cancel_workflow">Start cancellation workflow</string>
+    <string name="selected">Selected</string>
+    <string name="finish_reqister">Finish register service. If there is some ticket below, then you can try your luck. Otherwise, sorry.</string>
+    <string name="prep_to_send_sms">Prep to send sms</string>
+    <string name="end_workflow">End workflow</string>
+    <string name="got_it">Got it</string>
+    <string name="tip_check"><![CDATA[Tip & Check]]></string>
+    <string name="no_require_cancel">No registration for HE-address book</string>
+</resources>

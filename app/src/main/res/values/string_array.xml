@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Place intended phone number here-->
+    <string-array name="phone_number_list">
+        <item>13800000000</item>
+        <item>13700000000</item>
+    </string-array>
+</resources>
